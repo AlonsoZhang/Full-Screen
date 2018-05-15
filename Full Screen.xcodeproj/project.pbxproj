@@ -267,7 +267,7 @@
 				DEVELOPMENT_TEAM = 8LP5KW6GHL;
 				INFOPLIST_FILE = "Full Screen/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "wistron.Full-Screen";
+				PRODUCT_BUNDLE_IDENTIFIER = "tech.zhangwu.Full-Screen";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -282,7 +282,7 @@
 				DEVELOPMENT_TEAM = 8LP5KW6GHL;
 				INFOPLIST_FILE = "Full Screen/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "wistron.Full-Screen";
+				PRODUCT_BUNDLE_IDENTIFIER = "tech.zhangwu.Full-Screen";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
